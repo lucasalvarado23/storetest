@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 import HeaderNav from '../global/HeaderNav';
-import * as Header from '../../assets/img/headers/guy.jpeg';
+import * as Header from '../../assets/img/headers/guy2.jpeg';
 
 var HeaderStyle = {
   backgroundImage: `url(${Header})`,
@@ -19,7 +19,7 @@ const HomeHeader = props => (
 
     <div className="header-container">
       <div className="content">
-        <h1 id="head">Active hustle.</h1>
+        <h1 id="head">Active hustle</h1>
         <h4 id="head2">  Affordable gym gear and equipment </h4>
         
       </div>

@@ -8,7 +8,7 @@ const OrderConfirmation = () => (
         <div className="confirmation">
           <h2>Awesome, your order has been placed</h2>
           <p>Make sure you check your emails for confirmation.</p>
-          <img src={WeLoveYou} alt="We Love You" />
+          <p>Any questions or comments, don't hesitate to contact us. </p>
         </div>
       </div>
     </section>

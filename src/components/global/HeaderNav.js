@@ -7,7 +7,7 @@ const HeaderNav = () => (
   <div className="nav-container">
     <nav className="primary-nav light">
       <Link to="/products">Products</Link>
-      <Link to="/styles">Styles</Link>
+      <Link to="/styles">Categories</Link>
     </nav>
     <nav className="secondary-nav light">
       <CartCounter />

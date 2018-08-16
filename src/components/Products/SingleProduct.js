@@ -92,7 +92,7 @@ class SingleProduct extends Component {
                 <p className="manufacturer">
                   <span className="hide-content">Manufactured </span>By{' '}
                   <span className="word-mark">
-                    I<span className="love">Love</span>Lamp
+                    I<span className="love">Active</span>Hustle
                   </span>
                 </p>
                 {isThereACurrencyPrice()}
@@ -170,10 +170,6 @@ class SingleProduct extends Component {
                     <div className="value">{product.material}</div>
                   </div>
                   <div className="row">
-                    <div className="label">Bulb type</div>
-                    <div className="value">{product.bulb}</div>
-                  </div>
-                  <div className="row">
                     <div className="label">Max Watt</div>
                     <div className="value">{product.max_watt}</div>
                   </div>
@@ -189,41 +185,17 @@ class SingleProduct extends Component {
               </div>
               <div className="product-details">
                 <div className="header">
-                  <h3>Dimensions (cm)</h3>
-                </div>
-                <div className="details-body">
-                  <div className="row">
-                    <div className="label">Height</div>
-                    <div className="value">156</div>
-                  </div>
-                  <div className="row">
-                    <div className="label">Width</div>
-                    <div className="value">80</div>
-                  </div>
-                  <div className="row">
-                    <div className="label">Depth</div>
-                    <div className="value">80</div>
-                  </div>
-                </div>
-              </div>
-              <div className="product-details">
-                <div className="header">
                   <h3>Delivery & returns</h3>
                 </div>
                 <div className="details-body">
                   <div className="row">
-                    <div className="label">Dispatch</div>
+                    <div className="label">Arrives</div>
                     <div className="value">Within 2 weeks</div>
                   </div>
                   <div className="row">
                     <div className="label">Delivery</div>
-                    <div className="value">$5.95</div>
+                    <div className="value">Free delivery in the USA</div>
                   </div>
-                </div>
-                <div className="footer">
-                  <p>
-                    Read the <a href="/">delivery and returns policy</a>.
-                  </p>
                 </div>
               </div>
             </div>

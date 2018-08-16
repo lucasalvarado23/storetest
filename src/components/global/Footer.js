@@ -12,13 +12,15 @@ const Footer = () => (
             <div className="footer-header">
               <span className="hide-content">Active Hustle</span>
             </div>
+            <h1>Active Hustle </h1>
             <p>
-              Esay to use and affordable equipment
+              Easy to use and affordable equipment
             </p>
           </div>
           <nav className="footer-links">
             <dl>
               <dt className="footer-header">
+              <h1> Our partners </h1>
                 <span className="hide-content">Our partners</span>
                 
               </dt>
@@ -33,6 +35,7 @@ const Footer = () => (
           <nav className="footer-social">
             <dl>
               <dt className="footer-header">
+              <h1> Follow us on social media </h1>
                 <span className="hide-content">Follow us on social media</span>
               </dt>
               <dd>

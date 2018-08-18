@@ -25,10 +25,10 @@ const Footer = () => (
                 
               </dt>
               <dd>
-                <a href="migueltransportacion.com">Miguel Angel Transportacion</a>
+                <a href="https://migueltransportacion.com/">Miguel Angel transportacion</a>
               </dd>
               <dd>
-                <a href="graphsvid.com">Important stuff</a>
+                <a href="http://www.graphsvid.com/">Important stuff</a>
               </dd>
             </dl>
           </nav>
@@ -39,10 +39,10 @@ const Footer = () => (
                 <span className="hide-content">Follow us on social media</span>
               </dt>
               <dd>
-                <a href="/">Facebook</a>
+                <a href="/">Facebook (coming soon)</a>
               </dd>
               <dd>
-                <a href="/">Instagram</a>
+                <a href="/">Instagram (coming soon)</a>
               </dd>
             </dl>
           </nav>

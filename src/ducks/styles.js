@@ -2,7 +2,7 @@ export const SET_STYLE = 'styles/SET_STYLE';
 
 const initialState = {
   style: 'Bright',
-  header: '',
+  header: 'Bright',
   error: null
 };
 

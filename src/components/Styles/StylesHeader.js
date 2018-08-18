@@ -43,7 +43,8 @@ const StylesHeader = ({ style, header }) => {
       <div className="nav-container">
         <nav className="primary-nav">
           <Link to="/products">Products</Link>
-          <Link to="/styles">Styles</Link>
+          <Link to="/styles">Categories</Link>
+          <Link to="/#">Home</Link>
         </nav>
         <nav className="secondary-nav light">
           <CartCounter />

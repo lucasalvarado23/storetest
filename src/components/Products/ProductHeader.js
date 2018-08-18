@@ -31,6 +31,7 @@ class ProductHeader extends Component {
           <nav className="primary-nav">
             <Link to="/products">Products</Link>
             <Link to="/styles">Categories</Link>
+            <Link to="/#">Home</Link>
           </nav>
           <nav className="secondary-nav">
             <CartCounter />
